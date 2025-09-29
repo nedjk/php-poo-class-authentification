@@ -1,0 +1,11 @@
+{
+    "name": "tp/classesdauthentification",
+    "autoload" : {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "require": {
+        "symfony/var-dumper": "^7.3"
+    }
+}
